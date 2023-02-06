@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+C:\Users\user\source\repos\GAME1011-W2023-Lab2\GAME1011-W2023-Lab2\Lab2.cpp(23,17): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\user\source\repos\GAME1011-W2023-Lab2\GAME1011-W2023-Lab2\Lab2.cpp(23,17): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  GAME1011-W2023-Lab2.vcxproj -> C:\Users\user\source\repos\GAME1011-W2023-Lab2\x64\Debug\GAME1011-W2023-Lab2.exe
